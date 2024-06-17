@@ -26,6 +26,6 @@ I'm Debashnu!
 
 ### 🔗 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/yourlinkedin)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn)](https://www.linkedin.com/in/debashnu-paul-5bb632245)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/yourtwitter)
 [![Personal Website](https://img.shields.io/badge/-Website-000?&logo=Web)](https://yourwebsite.com)
