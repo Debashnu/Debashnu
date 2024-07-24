@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Header](./github-header-image (1).png)
+Im Debashnu
 
 - 🎓 Computer Science graduate from Sister Nivedita University
 - 🌱 Learning [java,css,genai,python,react,langchain]
