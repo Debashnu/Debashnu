@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Header]("C:\Users\HP\Downloads\github-header-image (1).png")
+![Header](C:\Users\HP\Downloads\github-header-image (1).png)
 
 - 🎓 Computer Science graduate from Sister Nivedita University
 - 🌱 Learning [java,css,genai,python,react,langchain]
